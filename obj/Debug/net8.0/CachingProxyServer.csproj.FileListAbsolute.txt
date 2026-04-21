@@ -1,0 +1,14 @@
+C:\Users\homage\CachingProxyServer\bin\Debug\net8.0\CachingProxyServer.exe
+C:\Users\homage\CachingProxyServer\bin\Debug\net8.0\CachingProxyServer.deps.json
+C:\Users\homage\CachingProxyServer\bin\Debug\net8.0\CachingProxyServer.runtimeconfig.json
+C:\Users\homage\CachingProxyServer\bin\Debug\net8.0\CachingProxyServer.dll
+C:\Users\homage\CachingProxyServer\bin\Debug\net8.0\CachingProxyServer.pdb
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.AssemblyInfoInputs.cache
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.AssemblyInfo.cs
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.dll
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\refint\CachingProxyServer.dll
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.pdb
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\CachingProxyServer.genruntimeconfig.cache
+C:\Users\homage\CachingProxyServer\obj\Debug\net8.0\ref\CachingProxyServer.dll
